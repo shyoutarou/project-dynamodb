@@ -4,6 +4,11 @@
   - Amazon DynamoDB.
   - Amazon CLI for executing the command line.
 
+## Instrutor
+
+Cassiano Peres - [Instrutor, DIO](https://www.linkedin.com/in/cassiano-ricardo-de-oliveira-peres-41bb86100/)
+
+
 ## Commands for executing the experiment:
 
 **Create a Table**:
